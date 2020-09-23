@@ -1,15 +1,16 @@
-# Learning ECSQL
+# 学习 ECSQL
 
-This tutorial allows you to learn how to use ECSQL to read and query the business data in your iModels.
+通过本教程，您将学会如何使用 ECSQL 读取和查询 iModels 中的业务数据。
 
 ECSQL is an implementation of SQL — a proven, well-adopted text-based command language. It adheres to
 standard SQL (SQL-92 and SQL-99) wherever possible.
+ECSQL 是 SQL 语言（一种被证明可靠的，被广泛应用的文本命令语言）的一个实现。它在任何情况下都遵循 SQL 标准规范（SQL-92 和 SQL-99）。
 
-## Prerequisites
+## 预备知识
 
 ### SQL
 
-In the course of the tutorial you will notice how similar ECSQL and SQL are. To not reinvent the wheel, this tutorial therefore expects you to be familiar with the basics of SQL. **If you are new to SQL, please take a class on the SQL basics first.**
+在本教程中，您会发现 ECSQL 与 SQL 极其相似。为了不再重新发明轮子，本教程希望您已经对 SQL 有基本的了解。**如果您刚刚接触 SQL，请学习有关 SQL 的基础课程。**
 
 ### iModelConsole
 
