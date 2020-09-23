@@ -2,8 +2,6 @@
 
 通过本教程，您将学会如何使用 ECSQL 读取和查询 iModels 中的业务数据。
 
-ECSQL is an implementation of SQL — a proven, well-adopted text-based command language. It adheres to
-standard SQL (SQL-92 and SQL-99) wherever possible.
 ECSQL 是 SQL 语言（一种被证明可靠的，被广泛应用的文本命令语言）的一个实现。它在任何情况下都遵循 SQL 标准规范（SQL-92 和 SQL-99）。
 
 ## 预备知识
