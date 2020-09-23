@@ -12,17 +12,18 @@ ECSQL 是 SQL 语言（一种被证明可靠的，被广泛应用的文本命令
 
 ### iModelConsole
 
-The tutorial makes reference to the **iModelConsole** application.  Use the app to follow along with the tutorial by executing the ECSQL examples yourself.  You can also experiment with your own ECSQL statements.
+本教程是基于 **iModelConsole** 的。您需要按照教程的指引，在 iModelConsole 中执行 ECSQL 的例子。您也可以运行自己设计的 ECSQL 语句。
 
-[Open the iModelConsole](https://imodelconsole.bentley.com/)
+[访问 iModelConsole](https://imodelconsole.bentley.com/)
 
-### Sample iModel
+### iModel 实例
 
-The ECSQL examples in the tutorial work with the "House Sample" iModel. You can explore the imodels [here](https://imodeljs.org/sample-showcase/).
+教程中的 ECSQL 例子使用一个名为 "House Sample" 的 iModel 实例。您可以在[这里](https://imodeljs.org/sample-showcase/)浏览更多 iModel 实例。
 
 ### BIS
 
 The schemas for iModels are based on [BIS](../../bis/index.md). Therefore, the examples throughout the tutorial use the BIS schemas. While not required to learn ECSQL, familiarity with BIS is a good idea to get more from this tutorial.
+iModel 的结构是基于[BIS](../../bis/index.md)的。
 
 ## Scope
 
